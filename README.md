@@ -1,3 +1,16 @@
+## 同期フォルダ
+
+Packages/User/フォルダを同期させる
+
+## パッケージコントロールのインストール
+
+1. コンソールでインストールする  
+　→ エラーが発生する
+2. 直接パッケージファイルを置く  
+　SublimeText3/Packages/Package Control.sublime-package
+
+## パッケージ
+
 * SublimeCodeIntel  
 JSなどの強調表示、コードの自動補完を行う  
 定義箇所に飛ぶことも可能
