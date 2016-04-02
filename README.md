@@ -60,9 +60,6 @@ CSV形式のデータをさまざまな形に変換するパッケージ
 * DocBlockr  
 コメントブロックの自動補完
 
-* Markdown Preview  
-Markdownをブラウザでプレビュー
-
 * Calculate  
 計算
 

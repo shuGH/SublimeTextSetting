@@ -5,7 +5,25 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"AutoFileName",
+		"Better CoffeeScript",
+		"Calculate",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DataConverter",
+		"DocBlockr",
+		"Image2Base64",
 		"IMESupport",
+		"OmniMarkupPreviewer",
+		"Pandoc",
+		"RecentActiveFiles",
+		"Smart Delete",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
 		"Theme - Spacegray"
 	]
 }
